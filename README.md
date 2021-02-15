@@ -1,5 +1,5 @@
 # Power_BI_Rpt_AdventureWorks
-In summary, this report answers my manager’s top questions:
+In summary, this report answers the manager’s top questions:
 
 Which month had the most sales in 2019? 
 
